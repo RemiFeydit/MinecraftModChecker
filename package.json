@@ -1,0 +1,17 @@
+{
+  "name": "modchecker",
+  "version": "1.0.0",
+  "description": "A program to check is my mods are up to date",
+  "main": "modChecker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console-menu": "^0.1.0",
+    "dotenv": "^16.0.3",
+    "download": "^8.0.0",
+    "press-any-key": "^0.1.1"
+  }
+}
